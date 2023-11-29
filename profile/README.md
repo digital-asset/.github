@@ -9,7 +9,7 @@ Digital Asset empowers the world's most innovative organizations to work across 
 [Daml](https://github.com/digital-asset/daml)
 [Canton](https://github.com/digital-asset/canton)
 
-This Github organization is the primary source for all open-source software, including reference apps and examples.
+This Github organization is the primary source for all Digital Asset open-source software, including reference apps and examples.
 
 ## Social Media
 [LinkedIn](https://www.linkedin.com/company/digitalassetcom/)
