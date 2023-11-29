@@ -1,6 +1,6 @@
 ![Digital Asset](https://github.com/digital-asset/.github/blob/main/images/digitalasset.png)
 
-i[Realize the full economic value of a more interconnected world](https://digitalasset.com)
+[Realize the full economic value of a more interconnected world](https://digitalasset.com)
 
 Digital Asset empowers the world's most innovative organizations to work across traditional boundaries with applications that enable information and value to flow freely, in a global, connected network.
 
@@ -18,7 +18,7 @@ Please visit our [Community Forum](https://discuss.daml.com) or contact our [Ent
 
 ## Digital Asset Trust Center
 
-Please visit our security [Trust Center](https://digitalasset.com/trust-center)
+Please visit our [Security Trust Center](https://digitalasset.com/trust-center)
 
 [Responsible Disclosure Policy](https://digitalasset.com/responsible-disclosure)
 [Privacy Policy](https://www.digitalasset.com/privacy)
