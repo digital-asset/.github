@@ -1,4 +1,4 @@
-![Digital Asset](https://github.com/digital-asset/.github/images/digitalasset.png)
+![Digital Asset](https://github.com/digital-asset/.github/blob/main/images/digitalasset.png)
 
 # Digital Asset
 
