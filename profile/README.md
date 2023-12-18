@@ -9,8 +9,9 @@ Digital Asset empowers the world's most innovative organizations to work across 
 
 ## Primary Digital Asset Open-Source Repositories
 
-[Daml](https://github.com/digital-asset/daml)
-[Canton](https://github.com/digital-asset/canton)
+[Daml](https://github.com/digital-asset/daml) is an open-source smart contract language for building future-proof distributed applications on a safe, privacy-aware runtime.
+
+[Canton](https://github.com/digital-asset/canton) is a Daml ledger interoperability protocol.
 
 This Github organization is the primary source for all Digital Asset open-source software, including reference apps and examples.
 
