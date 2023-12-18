@@ -1,4 +1,4 @@
-![Digital Asset](https://github.com/digital-asset/.github/blob/main/images/digitalasset.png)
+![Digital Asset](https://github.com/digital-asset/.github/raw/main/images/digitalasset.png)
 
 [Realize the full economic value of a more interconnected world](https://digitalasset.com)
 
