@@ -1,4 +1,7 @@
-![Digital Asset](https://github.com/digital-asset/.github/raw/main/images/digitalasset.png)
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/digital-asset/.github/raw/main/images/digital-asset-logo-dark.png">
+ <img alt="Digital Asset" src="https://github.com/digital-asset/.github/raw/main/images/digital-asset-logo-light.png">
+</picture>
 
 [Realize the full economic value of a more interconnected world](https://digitalasset.com)
 
