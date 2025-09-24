@@ -1,6 +1,11 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/digital-asset/.github/raw/main/images/digital-asset-logo-dark.png">
- <img alt="Digital Asset" src="https://github.com/digital-asset/.github/raw/main/images/digital-asset-logo-light.png" width="50%">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/digital-asset/.github/raw/main/images/Digital-Asset-landscape-reverse.png">
+ <img alt="Digital Asset" src="https://github.com/digital-asset/.github/raw/main/images/Digital-Asset-landscape-rgb (1).png" width="50%">
+</picture>
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/digital-asset/.github/raw/main/images/Canton-Vertical-stack-Logo-White (1).png">
+ <img alt="Digital Asset" src="https://github.com/digital-asset/.github/raw/main/images/Canton-Horizontal-stack-Black-logo-YellowC.png" width="50%">
 </picture>
 
 [Realize the full economic value of a more interconnected world](https://digitalasset.com)
