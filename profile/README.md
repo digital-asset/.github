@@ -1,9 +1,4 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/digital-asset/.github/raw/main/images/Digital-Asset-landscape-reverse.png">
- <img alt="Digital Asset" src="https://github.com/digital-asset/.github/raw/main/images/Digital-Asset-landscape-rgb.png" width="50%">
-</picture>
-
-<picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/digital-asset/.github/raw/main/images/Canton-Vertical-stack-Logo-White.png">
  <img alt="Digital Asset" src="https://github.com/digital-asset/.github/raw/main/images/Canton-Horizontal-stack-Black-logo-YellowC.png" width="50%">
 </picture>
