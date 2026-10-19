@@ -1,12 +1,10 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/digital-asset/.github/raw/main/images/Digital-Asset-landscape-reverse.png">
- <img alt="Digital Asset" src="https://github.com/digital-asset/.github/raw/main/images/Digital-Asset-landscape-rgb.png" width="50%">
-</picture>
-
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/digital-asset/.github/raw/main/images/Canton-Vertical-stack-Logo-White.png">
- <img alt="Digital Asset" src="https://github.com/digital-asset/.github/raw/main/images/Canton-Horizontal-stack-Black-logo-YellowC.png" width="50%">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/digital-asset/.github/raw/main/images/Landscape%20New%20DA%20Brand%20Social%20Template%20%20-%20Dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/digital-asset/.github/raw/main/images/Landscape%20New%20DA%20Brand%20Social%20Template.png">
+    <img src="https://github.com/digital-asset/.github/raw/main/images/Landscape%20New%20DA%20Brand%20Social%20Template.png" width="100%" alt="Digital Asset and Canton logos">
+  </picture>
+</p>
 
 [Realize the full economic value of a more interconnected world](https://digitalasset.com)
 
